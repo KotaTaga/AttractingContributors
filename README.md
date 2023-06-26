@@ -23,4 +23,4 @@ Please write the name of the console you use the most!
 - MetaQuest2
 - Switch
 - iPhone
-
+- Gaming PC
