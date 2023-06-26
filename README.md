@@ -38,7 +38,9 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 7. Shohei Ohtani
 8. Makoto Nagao
 9. Isaac Newton
-10. Nakayama Kinnikun
+10. Shigeru Miyamoto
+11. Barack Obama
+12. Nakayama Kinnikun
 
 
 # Rules
