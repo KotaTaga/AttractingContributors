@@ -39,7 +39,7 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 8. Makoto Nagao
 9. Isaac Newton
 10. Shigeru Miyamoto
-11. (put your text)
+11. Barack Obama
 
 
 # Rules
